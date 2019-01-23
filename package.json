@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter-test",
+  "name": "maheshamb-number-formatter",
   "version": "1.0.0",
   "description": "This is the test module created to do test.",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "number",
     "formatter"
   ],
-  "author": "Mahesha MB <www.google.com>",
+  "author": "Mahesha MB <maheshmb2007@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/maheshmb2007/number-formatter/issues"
